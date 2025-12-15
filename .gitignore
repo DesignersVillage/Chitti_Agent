@@ -1,0 +1,28 @@
+﻿# Secrets & env
+.env
+*.env
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs & outputs
+logs/
+output/
+outputs/
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
